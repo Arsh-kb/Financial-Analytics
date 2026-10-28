@@ -1,0 +1,266 @@
+{
+  "generatedFrom": "Campus_Commerce_Intelligence_Dataset-5609f3.xlsx",
+  "totalResponses": 200,
+  "year": [
+    {
+      "label": "3rd Year",
+      "value": 108
+    },
+    {
+      "label": "2nd Year",
+      "value": 92
+    }
+  ],
+  "branches": [
+    {
+      "label": "CSE",
+      "value": 102
+    },
+    {
+      "label": "ME",
+      "value": 25
+    },
+    {
+      "label": "DSE",
+      "value": 21
+    },
+    {
+      "label": "Chemical Engineering",
+      "value": 16
+    },
+    {
+      "label": "Other",
+      "value": 13
+    },
+    {
+      "label": "ECE",
+      "value": 12
+    },
+    {
+      "label": "CE",
+      "value": 11
+    }
+  ],
+  "frequency": [
+    {
+      "label": "Less than once a month",
+      "value": 84
+    },
+    {
+      "label": "12 times a month",
+      "value": 65
+    },
+    {
+      "label": "35 times a month",
+      "value": 35
+    },
+    {
+      "label": "610 times a month",
+      "value": 16
+    }
+  ],
+  "spend": [
+    {
+      "label": "Less than 500",
+      "value": 63
+    },
+    {
+      "label": "5001,000",
+      "value": 53
+    },
+    {
+      "label": "2,0013,000",
+      "value": 35
+    },
+    {
+      "label": "1,0012,000",
+      "value": 34
+    },
+    {
+      "label": "3,0015,000",
+      "value": 15
+    }
+  ],
+  "platforms": [
+    {
+      "label": "Amazon",
+      "value": 151
+    },
+    {
+      "label": "Flipkart",
+      "value": 114
+    },
+    {
+      "label": "Myntra",
+      "value": 51
+    },
+    {
+      "label": "Meesho",
+      "value": 51
+    },
+    {
+      "label": "Brand-specific websites/apps",
+      "value": 43
+    },
+    {
+      "label": "Blinkit / Zepto / Swiggy Instamart",
+      "value": 35
+    },
+    {
+      "label": "Other",
+      "value": 12
+    }
+  ],
+  "categories": [
+    {
+      "label": "Clothing & footwear",
+      "value": 60
+    },
+    {
+      "label": "Academic / educational products",
+      "value": 40
+    },
+    {
+      "label": "Food & beverages",
+      "value": 40
+    },
+    {
+      "label": "Books & stationery",
+      "value": 27
+    },
+    {
+      "label": "Personal care / grooming",
+      "value": 24
+    },
+    {
+      "label": "Sports & fitness",
+      "value": 9
+    }
+  ],
+  "payments": [
+    {
+      "label": "UPI",
+      "value": 159
+    },
+    {
+      "label": "Cash on Delivery",
+      "value": 41
+    }
+  ],
+  "reviews": [
+    {
+      "label": "Often",
+      "value": 123
+    },
+    {
+      "label": "Always",
+      "value": 45
+    },
+    {
+      "label": "Sometimes",
+      "value": 16
+    },
+    {
+      "label": "Never",
+      "value": 16
+    }
+  ],
+  "impulse": [
+    {
+      "label": "Rarely",
+      "value": 91
+    },
+    {
+      "label": "Sometimes",
+      "value": 35
+    },
+    {
+      "label": "Never",
+      "value": 34
+    },
+    {
+      "label": "Very often",
+      "value": 25
+    },
+    {
+      "label": "Often",
+      "value": 15
+    }
+  ],
+  "periods": [
+    {
+      "label": "Festival / holiday periods",
+      "value": 90
+    },
+    {
+      "label": "Beginning of semester",
+      "value": 81
+    },
+    {
+      "label": "Returning to campus after vacation",
+      "value": 49
+    },
+    {
+      "label": "No particular period",
+      "value": 48
+    },
+    {
+      "label": "End of semester",
+      "value": 34
+    },
+    {
+      "label": "Other",
+      "value": 18
+    },
+    {
+      "label": "Exam period",
+      "value": 17
+    }
+  ],
+  "campus": [
+    {
+      "label": "Hostel setup / room requirements",
+      "value": 154
+    },
+    {
+      "label": "Food / snack availability",
+      "value": 122
+    },
+    {
+      "label": "Academic requirements",
+      "value": 109
+    },
+    {
+      "label": "Festivals / college events",
+      "value": 60
+    },
+    {
+      "label": "Sports activities",
+      "value": 38
+    },
+    {
+      "label": "Travel / home visits",
+      "value": 37
+    },
+    {
+      "label": "Other",
+      "value": 24
+    },
+    {
+      "label": "Club / event requirements",
+      "value": 23
+    },
+    {
+      "label": "Internship / placement preparation",
+      "value": 16
+    },
+    {
+      "label": "None",
+      "value": 10
+    }
+  ],
+  "discountScore": 3.235,
+  "compareScore": 3.38,
+  "deliveryScore": 3.615,
+  "repeatScore": 3.475
+}
